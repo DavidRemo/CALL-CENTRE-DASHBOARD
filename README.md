@@ -31,7 +31,7 @@ In this project I created a dashboard in Power BI for the call center that refle
 
 
 ## Datasource:
-* [Call Centre Dataset]([https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data](https://github.com/DavidRemo/CALL-CENTRE-DASHBOARD/blob/main/Call%20Centre%20Dataset.xlsx)) containing 12 columns and 32942 rows, with a total of 374,622 records of observation.
+* [Call Centre Dataset]([https://github.com/DavidRemo/CALL-CENTRE-DASHBOARD/blob/main/Call%20Centre%20Dataset.xlsx)]) containing 12 columns and 32942 rows, with a total of 374,622 records of observation.
 
 
 ## Data Preparation:
