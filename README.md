@@ -97,4 +97,5 @@ As shown by Data Visualization, It can be deduced that:
 
 
 ## In conclusion:
-The automated Power BI dashboard is designed to understand Call Centre trends. The consolidated report will deeply drive the improvement of the performance of call centre in terms of call handling and resolving cases. This report will help the management/team to identify the different levels of root causes and make some data-driven business decisions that could help in increasing the performance of call centre and customer satisfaction, with the help of this dashboard.
+The automated Power BI dashboard is designed to understand Call Centre trends. The consolidated report will deeply drive the improvement of the performance of call centre in terms of call handling and resolving cases. <br/>
+This report will help the management/team to identify the different levels of root causes and make some data-driven business decisions that could help in increasing the performance of call centre and customer satisfaction, with the help of this dashboard.
