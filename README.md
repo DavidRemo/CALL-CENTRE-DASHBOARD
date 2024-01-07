@@ -26,12 +26,12 @@ In this project I created a dashboard in Power BI for the call center that refle
 6.	Total Calls by Call Centre (Bar Chart): Create a bar chart that presents the total number of calls handled by each call centre or department.
 
 ### DASHBOARD 2: GRID
-•	Create a Grid View dashboard displaying a table of all call details in Power BI.
+•	Create a Grid View dashboard displaying a table of all call details in Power BI. <br/>
 •	This should allow a user to export the grid for various filters applied.
 
 
 ## Datasource:
-* [Call Centre Dataset](https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data) containing 12 columns and 32942 rows, with a total of 374,622 records of observation.
+* [Call Centre Dataset]([https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data](https://github.com/DavidRemo/CALL-CENTRE-DASHBOARD/blob/main/Call%20Centre%20Dataset.xlsx)) containing 12 columns and 32942 rows, with a total of 374,622 records of observation.
 
 
 ## Data Preparation:
@@ -52,7 +52,8 @@ The Call Centre_Call Centre table and Date table were modelled by building a Man
 
 
 ## Data Analysis (DAX):
-Added new measures using DAX (Data Analysis Expressions) to enhance the quality of the data and improve the analysis in Power BI.
+
+Added new measures using DAX (Data Analysis Expressions) to enhance the quality of the data and improve the analysis in Power BI. <br/>
 
 Measures used in the visualization include:
 
