@@ -78,10 +78,16 @@ Measures used in the visualization include:
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop: <br/>
 
 The Homepage Dahboard visualization of the Call Centre Trends is shown below: <br/>
+
+* [Click link to Home Page Dashboard visualization on Power BI](https://app.powerbi.com/links/Ik7LxijHDN?ctid=31bcf846-ba11-4c63-b9c2-62bfcaf35b6d&pbi_source=linkShare) <br/>
+
 ![Home Page _ Dashboard](https://github.com/DavidRemo/CALL-CENTRE-DASHBOARD/assets/68180517/66eb0bab-7339-4959-b101-e2b6eead0e6c) <br/>
 
 
 The Grid page Dahboard visualization of the Call Centre is shown below: <br/>
+
+* [Click link to Grid Page Dashboard visualization on Power BI](https://app.powerbi.com/links/Ik7LxijHDN?ctid=31bcf846-ba11-4c63-b9c2-62bfcaf35b6d&pbi_source=linkShare&bookmarkGuid=5ad8b515-ce3f-4dbc-b0c1-df573ee06548) <br/>
+
 ![Grid Page _ Dashboard](https://github.com/DavidRemo/CALL-CENTRE-DASHBOARD/assets/68180517/ec35230e-bf57-42df-8363-489ba433f0cb)
 
 
